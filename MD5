@@ -1,0 +1,9 @@
+d7b93f6ef7d242376650efac2b613120 *DESCRIPTION
+57b57063ce6348f7df80050446b26aa3 *NAMESPACE
+16c9fb2d3a6e7a9965c2a35ae8439a53 *R/data.R
+42bd4d7b62f8ea2ca219fc7a6507602a *R/globals.R
+55167b322fe47689e9f095d0c86ebdb0 *R/helpers.R
+8654ad36802394a1a20056c8462f7cb1 *data/china.rda
+498bcd0242a27024d4347eb0a10c7a1f *man/china.Rd
+492b7fa3aeedc6db5e66518e0107d61c *man/generate_map_colors.Rd
+8b5f7e2165e8c2a17ffbc952aae4708c *man/get_mex.Rd
